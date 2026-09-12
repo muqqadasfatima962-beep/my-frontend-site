@@ -1,10 +1,10 @@
-import TopBar from "../components/TopBar";
-import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
-import Service from "../components/Service";
-import CoreValues from "../components/CoreValues";
-import Clients from "../components/Clients";
-import Footer from "../components/Footer"; // Footer component import kiya gaya hai
+import TopBar from "@/components/TopBar";
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
+import Service from "@/components/Service";
+import CoreValues from "@/components/CoreValues";
+import Clients from "@/components/Clients";
+import Footer from "@/components/Footer"; // Footer component import kiya gaya hai
 
 export default function Home() {
   return (
